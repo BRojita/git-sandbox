@@ -1,4 +1,5 @@
 def total_price(price, units):
+    print('Calculating total price')
     return price * units
 
 def main():
